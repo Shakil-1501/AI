@@ -1,11 +1,9 @@
              ------------------------ReadMe-------------------
 
-Title : ReadMe
-Subject : EVA4 Batch 2 Session5 Assignment.
-Submitted by : 1. MD Shakil Uzzaman ( LMS ID : md.shakiluzzaman@gmail.com )
-               2. Jagat Nandan Prasad ( LMS ID : jagatabhay@gmail.com )
-Submission Date : 25 April 2020
-Duration : One Week
+# Session5
+
+## Objective
+
 Language : Python
 
 
